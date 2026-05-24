@@ -122,6 +122,13 @@ https://github.com/pranjalmishra27/Pcb-quality-inspection
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranjalmishra27&theme=tokyonight&utcOffset=5.5" />
 </p>
 
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120" />
+</p>
 
 ## 🌐 Connect With Me
 
