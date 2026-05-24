@@ -1,16 +1,142 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pranjal Mishra</h1>
+<h3 align="center">AI/ML Engineer | Competitive Programmer | Computer Vision Enthusiast</h3>
 
-<!--
-**pranjalmishra27/pranjalmishra27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/pranjalmishra27">
+    <img src="https://komarev.com/ghpvc/?username=pranjalmishra27&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech in Electronics & Communication Engineering at MMMUT Gorakhpur
+- 📊 Minor in Data Science
+- 🤖 Passionate about AI, Machine Learning, Computer Vision & LLMs
+- 🔭 Currently working on AI-powered real-time systems
+- 🌱 Exploring RAG Pipelines, MLOps, Agentic AI and Generative AI
+- 💡 Interested in scalable AI applications and backend systems
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-darkgrey?style=for-the-badge&logo=c)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+
+### AI/ML & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+
+### Tools & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 💼 Experience
+
+### AI/ML Intern — GateX Innovation Pvt. Ltd.
+📍 Hybrid | Dec 2025 – Present
+
+- Built a **Face Recognition Attendance System** using MobileFaceNet + ArcFace
+- Developed **YOLOv8-based Uniform Detection System**
+- Created an **OCR Pipeline** using PaddleOCR + OpenCV
+- Worked on real-time AI systems with optimization using ONNX & TensorRT
+
+---
+
+## 🔥 Featured Projects
+
+### 🎯 Face Attendance System
+- Real-time face recognition attendance system
+- Anti-spoofing with ResNet-based detection
+- Achieved high accuracy and low latency
+
+🔗 Repository:
+https://github.com/pranjalmishra27/Face-Attendence-System
+
+---
+
+### 🩺 Medical Chatbot
+- AI + Rule-based medical assistant
+- Built using Streamlit + Transformer models
+- Added safety guardrails for emergency detection
+
+🔗 Repository:
+https://github.com/pranjalmishra27/Medicalchatbot
+
+---
+
+### 📉 Churn Prediction Model
+- Customer churn prediction using XGBoost
+- Feature engineering + SMOTE + hyperparameter tuning
+- High ROC-AUC and F1-score performance
+
+🔗 Repository:
+https://github.com/pranjalmishra27/Churn_Prediction_Model
+
+---
+
+### 🔍 PCB Quality Inspection
+- AI-powered PCB defect detection system
+- Custom vision-language model experimentation
+- Computer vision + deep learning pipeline
+
+🔗 Repository:
+https://github.com/pranjalmishra27/Pcb-quality-inspection
+
+---
+
+## 🏆 Achievements
+
+- 🥉 3rd Place — IOmaTic AI/ML & IoT Hackathon, IIT BHU
+- 🛰️ 2nd Place — URSC ISRO Rover Challenge
+- 🌍 Global Rank 487 — CodeChef Starters 198
+- ♟️ 3rd Place — College Chess Tournament
+- 👨‍💻 Amazon ML Summer School Participant
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranjalmishra27&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranjalmishra27&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranjalmishra27&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranjalmishra27&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranjalmishra27&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/pranjalmishra27" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/pranjalmishra2601" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy building AI systems that solve real-world problems with Computer Vision, LLMs, and automation 🚀
