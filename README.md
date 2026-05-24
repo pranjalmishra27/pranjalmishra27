@@ -102,7 +102,7 @@ https://github.com/pranjalmishra27/Pcb-quality-inspection
 - 🛰️ 2nd Place — URSC ISRO Rover Challenge
 - 🌍 Global Rank 487 — CodeChef Starters 198
 - ♟️ 3rd Place — College Chess Tournament
-- 👨‍💻 Amazon ML Summer School Participant
+- 👨‍💻 Amazon ML Summer School
 
 ---
 
