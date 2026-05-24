@@ -28,11 +28,30 @@
 ![C](https://img.shields.io/badge/C-darkgrey?style=for-the-badge&logo=c)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
 
-### AI/ML & Deep Learning
+---
+
+### AI / ML & Computer Vision
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-red?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer-Vision-green?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-darkgreen?style=for-the-badge)
+
+---
+
+### Generative AI & LLMs
+![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative-AI-purple?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic-AI-darkgreen?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-teal?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-grey?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-brown?style=for-the-badge)
+
+---
 
 ### Tools & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
