@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Mishra</h1>
-<h3 align="center">AI/ML Engineer | Competitive Programmer | Computer Vision Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | Generative AI & Agentic AI Enthusiast | Competitive Programmer</h3>
 
 <p align="center">
   <a href="https://github.com/pranjalmishra27">
