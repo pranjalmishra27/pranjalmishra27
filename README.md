@@ -58,6 +58,8 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Anaconda](https://img.shields.io/badge/Anaconda-green?style=for-the-badge&logo=anaconda)
 
 ---
 
