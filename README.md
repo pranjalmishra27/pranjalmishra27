@@ -68,10 +68,10 @@
 ### AI/ML Intern — GateX Innovation Pvt. Ltd.
 📍 Hybrid | Dec 2025 – Present
 
-- Built a **Face Recognition Attendance System** using MobileFaceNet + ArcFace
-- Developed **YOLOv8-based Uniform Detection System**
-- Created an **OCR Pipeline** using PaddleOCR + OpenCV
-- Worked on real-time AI systems with optimization using ONNX & TensorRT
+- Built a real-time **Smart Attendance System** using MobileFaceNet and ArcFace, achieving 96% accuracy with 150 ms latency (25–30 FPS) through ONNX and TensorRT optimization, reducing attendance time by 95% and eliminating manual errors
+- Developed a **YOLOv8 Nano-based School Uniform Detection System** achieving 93% mAP at real-time 30 FPS inference, automating compliance monitoring and reducing supervision effort by 85%
+- Implemented a **Camera-based OCR Pipeline** using OpenCV and PaddleOCR, achieving 94% text extraction accuracy with 150 ms latency, reducing manual data entry by 90% and enabling real-time text extraction
+- Worked on production-oriented AI systems focused on low-latency inference, real-time computer vision, deployment optimization, and scalable automation workflows
 
 ---
 
