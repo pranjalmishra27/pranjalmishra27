@@ -89,19 +89,21 @@ https://github.com/pranjalmishra27/Self_Healing_RAG
 ---
 
 ### 🎯 Face Attendance System
-- Real-time face recognition attendance system
-- Anti-spoofing with ResNet-based detection
-- Achieved high accuracy and low latency
+- Developed an AI-powered real-time attendance system using face recognition and computer vision
+- Implemented facial recognition with anti-spoofing using ResNet-based detection, achieving an F1-score of 0.97
+- Reduced manual attendance time by 90% through automated attendance logging
+- Built using Python, OpenCV, NumPy, Pandas, MobileNetV2, ResNet18, and Scikit-learn
 
 🔗 Repository:
-https://github.com/pranjalmishra27/Face-Attendence-System
+https://github.com/pranjalmishra27/Attendance_Project
 
 ---
 
 ### 🩺 Medical Chatbot
-- AI + Rule-based medical assistant
-- Built using Streamlit + Transformer models
-- Added safety guardrails for emergency detection
+- Developed a Streamlit-based AI medical assistant using hybrid rule-based and transformer architectures
+- Integrated Qwen2.5-3B and DistilGPT2 models for symptom analysis and intelligent response generation
+- Implemented safety guardrails for emergency detection and prevention of unsafe medical advice
+- Designed conversational UI with keyword-based symptom matching and NLP preprocessing
 
 🔗 Repository:
 https://github.com/pranjalmishra27/Medicalchatbot
@@ -109,9 +111,10 @@ https://github.com/pranjalmishra27/Medicalchatbot
 ---
 
 ### 📉 Churn Prediction Model
-- Customer churn prediction using XGBoost
-- Feature engineering + SMOTE + hyperparameter tuning
-- High ROC-AUC and F1-score performance
+- Built a customer churn prediction system on the Telco dataset using XGBoost and advanced feature engineering
+- Applied SMOTE balancing and hyperparameter tuning to improve model generalization
+- Achieved an F1-score of 0.85 and ROC-AUC score of 0.93
+- Identified high-risk customers with 90% precision, improving retention-focused decision making
 
 🔗 Repository:
 https://github.com/pranjalmishra27/Churn_Prediction_Model
@@ -119,9 +122,10 @@ https://github.com/pranjalmishra27/Churn_Prediction_Model
 ---
 
 ### 🔍 PCB Quality Inspection
-- AI-powered PCB defect detection system
-- Custom vision-language model experimentation
-- Computer vision + deep learning pipeline
+- Developed an AI-powered PCB defect detection and quality inspection system using YOLOv8n and computer vision
+- Achieved 98.6% precision, 98.7% recall, and 99.3% mAP@50, delivering industry-grade defect detection accuracy
+- Built lightweight real-time inspection pipelines for automated defect localization and classification across 3 defect classes
+- Optimized the system for fast and efficient manufacturing-quality inspection workflows
 
 🔗 Repository:
 https://github.com/pranjalmishra27/Pcb-quality-inspection
