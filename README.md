@@ -77,6 +77,17 @@
 
 ## 🔥 Featured Projects
 
+### 🧠 Self-Healing RAG Pipeline
+- Built an advanced Retrieval-Augmented Generation (RAG) system with self-healing retrieval and intelligent fallback mechanisms
+- Implemented semantic search, vector retrieval, reranking, and adaptive query handling
+- Designed modular AI pipeline architecture for robust and scalable GenAI applications
+- Focused on reliability, hallucination reduction, and production-ready AI workflows
+
+🔗 Repository:
+https://github.com/pranjalmishra27/Self_Healing_RAG
+
+---
+
 ### 🎯 Face Attendance System
 - Real-time face recognition attendance system
 - Anti-spoofing with ResNet-based detection
