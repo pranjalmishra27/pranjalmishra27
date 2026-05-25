@@ -68,9 +68,9 @@
 ### AI/ML Intern — GateX Innovation Pvt. Ltd.
 📍 Hybrid | Dec 2025 – Present
 
-- Built a real-time **Smart Attendance System** using MobileFaceNet and ArcFace, achieving 96% accuracy with 150 ms latency (25–30 FPS) through ONNX and TensorRT optimization, reducing attendance time by 95% and eliminating manual errors
+- Built a real-time **Smart Attendance System** using MobileFaceNet and ArcFace, achieving 96% accuracy with 30-40 ms latency (25–30 FPS) through ONNX and TensorRT optimization, reducing attendance time by 90% and eliminating manual errors
 - Developed a **YOLOv8 Nano-based School Uniform Detection System** achieving 93% mAP at real-time 30 FPS inference, automating compliance monitoring and reducing supervision effort by 85%
-- Implemented a **Camera-based OCR Pipeline** using OpenCV and PaddleOCR, achieving 94% text extraction accuracy with 150 ms latency, reducing manual data entry by 90% and enabling real-time text extraction
+- Engineered and deployed an OCR-based document processing system on RK3566 using OpenCV and Google Cloud Vision API, achieving 94% accuracy with 300 ms inference latency, reducing manual data entry by 80% through automated structured text extraction
 - Worked on production-oriented AI systems focused on low-latency inference, real-time computer vision, deployment optimization, and scalable automation workflows
 
 ---
@@ -78,7 +78,8 @@
 ## 🔥 Featured Projects
 
 ### 🧠 Self-Healing RAG Pipeline
-- Built an advanced Retrieval-Augmented Generation (RAG) system with self-healing retrieval and intelligent fallback mechanisms
+- Built an advanced Retrieval-Augmented Generation (RAG) system with self-healing retrieval and intelligent fallback mechanisms, improving answer grounding accuracy by 35% and reducing unsupported
+responses by 40%
 - Implemented semantic search, vector retrieval, reranking, and adaptive query handling
 - Designed modular AI pipeline architecture for robust and scalable GenAI applications
 - Focused on reliability, hallucination reduction, and production-ready AI workflows
